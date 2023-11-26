@@ -1,0 +1,10 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "delete",
+  "steps": [
+    {
+      "title": "Future<bool> deleteSetData({required int index});",
+      "description": "Future<bool> deleteSetData({required int index});"
+    }
+  ]
+}
