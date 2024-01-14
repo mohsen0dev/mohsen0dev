@@ -1,0 +1,40 @@
+<mxfile host="Electron" modified="2024-01-13T11:50:49.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="hOb-BgEu1gjs7rbVq3TQ" version="22.1.18" type="device">
+  <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+    <mxGraphModel dx="1434" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="37P6e2-Ls1V383z1iSm6-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="40" width="400" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="guOVFhzwkC_IQERahtsm-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="37P6e2-Ls1V383z1iSm6-4" vertex="1">
+          <mxGeometry width="400" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="37P6e2-Ls1V383z1iSm6-3" value="" style="group" vertex="1" connectable="0" parent="37P6e2-Ls1V383z1iSm6-4">
+          <mxGeometry x="15" y="63" width="370" height="575" as="geometry" />
+        </mxCell>
+        <mxCell id="guOVFhzwkC_IQERahtsm-30" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.statusBar;align=center;fontSize=10;sketch=0;fontFamily=Helvetica;fillColor=#d0cee2;strokeColor=#56517e;" parent="37P6e2-Ls1V383z1iSm6-3" vertex="1">
+          <mxGeometry width="370" height="15.82" as="geometry" />
+        </mxCell>
+        <mxCell id="guOVFhzwkC_IQERahtsm-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.android.navigation_bar_1_landscape;fillColor=#d0cee2;strokeColor=#56517e;sketch=0;" parent="37P6e2-Ls1V383z1iSm6-3" vertex="1">
+          <mxGeometry x="4" y="555" width="366" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="37P6e2-Ls1V383z1iSm6-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430" y="40" width="400" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="37P6e2-Ls1V383z1iSm6-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="37P6e2-Ls1V383z1iSm6-5">
+          <mxGeometry width="400" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="37P6e2-Ls1V383z1iSm6-7" value="" style="group" vertex="1" connectable="0" parent="37P6e2-Ls1V383z1iSm6-5">
+          <mxGeometry x="15" y="63" width="370" height="575" as="geometry" />
+        </mxCell>
+        <mxCell id="37P6e2-Ls1V383z1iSm6-8" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.statusBar;align=center;fontSize=10;sketch=0;fontFamily=Helvetica;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="37P6e2-Ls1V383z1iSm6-7">
+          <mxGeometry width="370" height="15.82" as="geometry" />
+        </mxCell>
+        <mxCell id="37P6e2-Ls1V383z1iSm6-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.android.navigation_bar_1_landscape;fillColor=#d0cee2;strokeColor=#56517e;sketch=0;" vertex="1" parent="37P6e2-Ls1V383z1iSm6-5">
+          <mxGeometry x="17" y="638" width="366" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
